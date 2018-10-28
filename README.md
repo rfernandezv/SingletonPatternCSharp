@@ -1,7 +1,8 @@
 # Singleton Pattern - Net Core 2.1
 Singleton Pattern - Net Core 2.1
 
-Se implementaron las siguientes clases:
+Se implementaron las siguientes clases en:
+SingletonPatternCSharp/Api/Common/Domain/Singleton/
  - LoggerBasicSingleton
  - LoggerThreadSafe1Singleton
  - LoggerThreadSafe2Singleton
